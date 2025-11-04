@@ -22,3 +22,7 @@ git clone https://github.com/yourusername/employee-directory.git
 cd employee-directory
 npm install
 npm start
+
+<h2><b>🌐 Live Demo</b></h2>
+https://6909936d694b7d544d04ee5e--stirring-liger-bcc901.netlify.app/
+
