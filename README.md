@@ -23,6 +23,6 @@ cd employee-directory
 npm install
 npm start
 
-<h2><b>🌐 Live Demo</b></h2>
+## 🌐 Live Demo
 https://6909936d694b7d544d04ee5e--stirring-liger-bcc901.netlify.app/
 
