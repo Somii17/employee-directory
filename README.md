@@ -1,28 +1,63 @@
-# Employee Directory 👩‍💻
+# 🧑‍💼 Employee Directory
 
-A clean and modern React-based employee management app that allows you to view, search, add, and edit employees.  
-Built with **React**, **CSS**, and responsive design principles.
+A **React-based Employee Directory Web App** that allows users to view, search, and manage employee details efficiently.
+This project helps demonstrate the use of **React, CSS, and component-based UI design** to create an interactive, responsive frontend.
 
-## 🚀 Features
-- Add, edit, and search employees  
-- Filter by department  
-- Modern responsive UI  
-- Animated modals for smooth UX  
-- Built with React + CSS (can be migrated to Tailwind)
-
-## 🛠️ Tech Stack
-- React.js  
-- CSS3  
-- JavaScript (ES6)  
-- Git + GitHub for version control
-
-## 📦 Installation
-```bash
-git clone https://github.com/yourusername/employee-directory.git
-cd employee-directory
-npm install
-npm start
+---
 
 ## 🌐 Live Demo
-https://6909936d694b7d544d04ee5e--stirring-liger-bcc901.netlify.app/
+
+🔗 **[View the Live Site Here](https://6909936d694b7d544d04ee5e--stirring-liger-bcc901.netlify.app/)**
+
+---
+
+## 🚀 Features
+
+✅ Add, view, and edit employee details
+✅ Search employees by name or department
+✅ Filter employees by department
+✅ Fully responsive design
+✅ Built with React functional components
+
+---
+
+## 🧠 Tech Stack
+
+* **Frontend:** React.js
+* **Styling:** CSS3, Flexbox
+* **Deployment:** Netlify
+* **Version Control:** Git & GitHub
+
+---
+
+## ⚙️ Installation and Setup
+
+If you want to run the project locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/Somii17/employee-directory.git
+
+# Navigate into the folder
+cd employee-directory
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+Then open **[http://localhost:3000](http://localhost:3000)** to view it in your browser
+```
+
+## 👩‍💻 Developed By
+
+**Somya Jain**
+📍 Student | Developer | Tech Enthusiast
+
+---
+
+
+---
 
